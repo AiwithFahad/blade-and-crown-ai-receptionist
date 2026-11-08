@@ -2,7 +2,7 @@
 
 ## Video link
 
-> 🎬 **Placeholder:** _Add the published demo video URL here (e.g., YouTube / Loom)._
+> 🎬 **Demo video:** [Watch on LinkedIn](https://lnkd.in/p/dGDK8zmm)
 >
 > Source video used for this documentation: `Blade & Crown — end-to-end project demo`, 138 s, 1280×720 (local file, not hosted).
 

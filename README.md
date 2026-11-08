@@ -4,7 +4,7 @@
 
 ![Project demo](assets/project-demo-thumbnail.png)
 
-> 📹 **Demo video:** see [`demo/VIDEO-LINK.md`](demo/VIDEO-LINK.md) for the video link (placeholder) and timestamped highlights.
+> 📹 **Demo video:** [Watch on LinkedIn](https://lnkd.in/p/dGDK8zmm) — also in [`demo/VIDEO-LINK.md`](demo/VIDEO-LINK.md) with timestamped highlights.
 >
 > ⚠️ This repository is a **documentation portfolio** built from the project's demonstration video. The original n8n workflow JSON exports are not included — see [`PROJECT-LIMITATIONS.md`](PROJECT-LIMITATIONS.md) for full disclosure.
 
@@ -111,7 +111,7 @@ Full detail: [`PROJECT-ARCHITECTURE.md`](PROJECT-ARCHITECTURE.md) · Node-by-nod
 
 ## Demo
 
-- 🎬 Video: placeholder in [`demo/VIDEO-LINK.md`](demo/VIDEO-LINK.md) — replace with the published video URL.
+- 🎬 Video: [Watch on LinkedIn](https://lnkd.in/p/dGDK8zmm) (also linked in [`demo/VIDEO-LINK.md`](demo/VIDEO-LINK.md)).
 - The demo states: *"Caller lines are scripted for the demo; every tool call and result is a real request to the production n8n webhook and database."*
 
 ## Setup (summary)
